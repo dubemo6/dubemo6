@@ -22,12 +22,7 @@ I am a **Frontend Engineer** currently building high-performance, scalable web a
 
 ---
 
-### 📊 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dubemo6&show_icons=true&theme=tokyonight&count_private=true" alt="Anthony's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubemo6&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
 
 ---
 
